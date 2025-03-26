@@ -57,7 +57,7 @@ To enhance usability, the dashboard includes:
 
 ## Dashboard created for analysis
 
-### Using Power BI:
+### Using Power BI: [Dashboard](Dashboard.pbix)
 ![Power BI Dashboard](images/Dashboard.png)
 
 ### SQL Programs:
