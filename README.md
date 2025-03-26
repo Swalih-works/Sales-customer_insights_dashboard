@@ -1,5 +1,3 @@
-# Sales & Customer Insights Dashboard
-
 ## Project Overview
 The **Sales & Customer Insights Dashboard** is a comprehensive **business intelligence solution** that provides valuable insights into **sales performance and customer behavior**. This project integrates **MySQL** for efficient data storage and transformation with **Power BI** for visualization and reporting.
 
